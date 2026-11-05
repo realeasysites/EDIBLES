@@ -1,0 +1,146 @@
+{
+  "settings": {
+    "announcement": "Seeing Hell's Kitchen this week? Join us for dinner and drinks before the show. Reservations and walk-ins welcome.",
+    "announcementUntil": "2026-11-08",
+    "phone": "(585) 271-4910",
+    "email": "ediblesrochester@gmail.com",
+    "reserveUrl": "https://www.yelp.com/reservations/edibles-restaurant-and-bar-rochester",
+    "reserveWidget": "https://www.yelp.com/reservations/edibles-restaurant-and-bar-rochester/widget?orientation=horizontal&color-scheme=light",
+    "orderUrl": "https://www.toasttab.com/edibles-restaurant-and-bar-704-university-avenue",
+    "rewardsUrl": "https://www.toasttab.com/edibles-restaurant-and-bar-704-university-avenue/rewardsSignup",
+    "giftCardUrl": "",
+    "deliveryUrl": "",
+    "instagramFollowers": "3,620",
+    "hours": {
+      "0": "",
+      "1": "",
+      "2": "12:00-15:00,16:00-22:00",
+      "3": "12:00-15:00,16:00-22:00",
+      "4": "12:00-15:00,16:00-22:00",
+      "5": "12:00-15:00,16:00-22:00",
+      "6": "16:30-22:00"
+    },
+    "dayNotes": { "0": "Private parties only", "1": "Closed" },
+    "kitchenLastCall": "21:00"
+  },
+  "features": [
+    { "title": "Lobster French", "descr": "A Friday night feature.", "image": "french.jpg", "link": "https://www.instagram.com/p/Dcj7ryKpPYw/" },
+    { "title": "Potatoes Raclette", "descr": "Duck fat roasted potatoes, caramelized onions, crispy bacon.", "image": "raclette.jpg", "link": "https://www.instagram.com/p/DfF0ZiGP-KZ/" },
+    { "title": "Panna Cotta", "descr": "Strawberries, pistachio and honey.", "image": "pannacotta.jpg", "link": "https://www.instagram.com/p/DfIdRJ1vsMc/" }
+  ],
+  "menus": {
+    "lunch": [
+      { "section": "Salads & Starters", "items": [
+        ["Candied Nut & Beet", "$17", "Goat cheese, almond praline, greens, roasted beets, balsamic vinaigrette."],
+        ["Chicken Caesar", "$18", "Grilled chicken, garlic croutons, creamy dressing, Reggiano cheese."],
+        ["Tomato Bisque", "$10", "San Marzano tomato, basil, cream, garlic crouton."],
+        ["Burrata", "$19", "Cream-filled mozzarella, arugula, basil pesto, tomato jam, balsamic, crostini."],
+        ["Crispy Duck Legs", "$19", "Grilled, plum BBQ glaze."],
+        ["Ukrainian Borscht", "$10", "Beets, carrots, potato, sour cream."],
+        ["Truffle Tots", "$13", "Truffle oil, sea salt, chipotle aioli."],
+        ["Lunchbox Shrimp", "$20", "Crispy panko-breaded shrimp, sweet & spicy aioli."]
+      ]},
+      { "section": "Entrées", "items": [
+        ["Faroe Island Salmon", "$33", "Maple-bourbon glaze, caramelized Brussels sprouts."],
+        ["14 oz. NY Strip Steak", "$43", "Garlic chive compound butter, roasted potato."],
+        ["Chicken De Medici", "$25", "Panko-breaded chicken cutlet, tomato, aged Parmesan, lemon-dressed arugula."],
+        ["Vegan Pesto Pasta", "$21", "Basil pesto, toasted pine nuts, grape tomato, olive oil, garlic, rigatoni.", "Add grilled chicken — $9"],
+        ["Old World Bolognese", "$26", "Veal, pork & beef simmered in a San Marzano tomato sauce, rigatoni, Reggiano cheese."],
+        ["Asparagus Panko Chicken", "$19", "Breaded chicken, tomato shallot, asparagus, feta cheese, greens, lemon dressing."]
+      ]},
+      { "section": "Lunch Favorites", "items": [
+        ["Soup, Salad & Bread", "$17", "Soup, Caesar or green salad, sourdough roll."],
+        ["Grilled Cheddar Cheese", "$16", "Vermont white cheddar, cup of tomato bisque."],
+        ["Grilled Chicken Sandwich", "$16", "Grilled chicken breast, arugula, tomato, roasted garlic mayo, brioche roll, lemon-dressed greens.", "Add bacon — $3.50"],
+        ["Burkle Burger", "$20", "10 oz. Angus beef, Vermont cheddar, caramelized onion, arugula, Mac sauce, in-house pickles, brioche roll, seasoned fries.", "Add bacon — $3.50"],
+        ["704 Burger", "$19", "10 oz. Angus burger, Vermont cheddar, in-house pickles, tomato jam, brioche roll, seasoned fries.", "Add bacon — $3.50"],
+        ["Quinoa Black Bean Burger", "$19", "Made in-house with Vermont cheddar, in-house pickles, fresh brioche, Dijon mustard aioli, seasoned fries."]
+      ]},
+      { "section": "Sides — $10", "items": [
+        ["Caramelized Brussels", "", ""], ["Seasoned Fries", "", ""], ["Lemon Asparagus", "", ""], ["Herb Roasted Potato", "", ""]
+      ]},
+      { "section": "Desserts", "items": [
+        ["Chocolate Cake", "$11", "Three layers, chocolate ganache frosting."],
+        ["Bread Pudding", "$11", "Warm caramel sauce, vanilla bean ice cream."],
+        ["Flourless Chocolate Tort", "$11", "Served warm, whipped cream."]
+      ]}
+    ],
+    "dinner": [
+      { "section": "Salads", "items": [
+        ["Candied Nut & Beet", "$14", "Chevre, candied nuts, greens, roasted beets, balsamic."],
+        ["Green Salad", "$12", "Tomato, shallot, crouton, carrot, lemon-dressed greens."],
+        ["Classic Caesar", "$12", "Garlic croutons, creamy dressing, Reggiano cheese.", "Add grilled chicken — $9 · Add bacon — $3.50"]
+      ]},
+      { "section": "Dinner Soups", "items": [
+        ["Ukrainian Borscht", "$10", "Beets, carrots, potato, mushrooms, sour cream. Served hot."],
+        ["Tomato Bisque", "$10", "San Marzano tomato, basil, cream, garlic crouton."]
+      ]},
+      { "section": "Entrées", "items": [
+        ["Chicken French", "$27", "Battered chicken, linguini, lemon, sherry, Parmesan."],
+        ["Old World Bolognese", "$26", "Chuck, sirloin, brisket blend in a San Marzano tomato sauce, rigatoni, Reggiano."],
+        ["Faroe Island Salmon", "$33", "Maple-bourbon glaze, caramelized Brussels sprouts."],
+        ["14 oz NY Strip Steak", "$43", "Garlic chive compound butter, roasted potato."],
+        ["704 Burger", "$19", "10 oz Angus beef, Vermont cheddar, pickles, tomato jam, brioche bun, seasoned fries.", "Add bacon — $3.50"],
+        ["Burkle Burger", "$20", "10 oz Angus beef, Vermont cheddar, caramelized onion, arugula, mac sauce, in-house pickles, brioche roll, seasoned fries.", "Add bacon — $3.50"],
+        ["Chicken De Medici", "$25", "Panko-breaded chicken cutlet, grape tomato, shallot, Reggiano, lemon-dressed arugula."],
+        ["Vegan Pesto Pasta", "$21", "Basil pesto, toasted pine nuts, grape tomato, white wine, garlic, rigatoni.", "Add grilled chicken — $9"],
+        ["Lobster Ravioli", "$37", "Seared shrimp, lobster claw meat, lobster mascarpone ravioli, grape tomato, arugula, garlic cream."],
+        ["Quinoa Black Bean Burger", "$19", "Vermont white cheddar, in-house pickles, Dijon aioli, brioche roll, seasoned fries."]
+      ]},
+      { "section": "Sides — $10", "items": [
+        ["Caramelized Brussels", "", ""], ["Seasoned Fries", "", ""], ["Lemon Asparagus", "", ""], ["Herb Roasted Potato", "", ""]
+      ]},
+      { "section": "Desserts", "items": [
+        ["Chocolate Cake", "$11", "Three layers, chocolate ganache frosting."],
+        ["Bread Pudding", "$11", "Warm caramel sauce, vanilla bean ice cream."],
+        ["Flourless Chocolate Tort", "$11", "Served warm, whipped cream."]
+      ]}
+    ],
+    "drinks": [
+      { "section": "Cocktails", "items": [
+        ["Espresso Martini", "$15", "Coffee liqueur, vodka, cold brew, simple syrup, coffee bean garnish."],
+        ["Gummy Bear Martini", "$13", "Dragonberry rum, raspberry vodka, peach, sour mix, cranberry splash."],
+        ["Passion Fruit Aperol Spritz", "$14", "Aperol, passionfruit syrup, champagne, soda, orange wheel."],
+        ["Burnt Orange Margarita", "$13", "Gold tequila, sour orange, burnt orange garnish."],
+        ["Jalapeño Peach Margarita", "$13", "Peach nectar, gold tequila, jalapeño garnish."],
+        ["Moscow Mule", "$12", "Vodka, lime, ginger beer."],
+        ["Bourbon Mule", "$12", "Bourbon, lime, ginger beer."],
+        ["Dark and Stormy", "$12", "Gosling's dark rum, ginger beer, lime garnish."]
+      ]},
+      { "section": "Beers — $6.25", "items": [
+        ["The Kind IPA", "", ""], ["Southern Tier IPA", "", ""], ["Brooklyn Lager", "", ""], ["Guinness", "", ""],
+        ["Stella Artois", "", ""], ["Blue Light", "", ""], ["Heineken", "", ""], ["Pineapple Burner India Pale Ale", "", ""]
+      ]},
+      { "section": "White Wines · Glass / Bottle", "items": [
+        ["Pinot Grigio, Ruffino Lumina", "$12 / $39", "Italy"],
+        ["Pinot Grigio, Barone Fini", "$14 / $48", "Italy"],
+        ["Sauvignon Blanc, Mondavi", "$13 / $39", "California"],
+        ["Sauvignon Blanc, Kim Crawford", "$15 / $49", "New Zealand"],
+        ["Chardonnay, Kendall Jackson", "$15 / $49", "California"],
+        ["Chardonnay, Sea Glass Unoaked", "$13 / $44", "California"],
+        ["Riesling, Chateau St. Michelle", "$13 / $44", "Washington State"],
+        ["Moscato, Jacob's Creek", "$12 / $39", "Australia"],
+        ["Rosé, La Vieille Ferme", "$12 / $39", "France"]
+      ]},
+      { "section": "Red Wines · Glass / Bottle", "items": [
+        ["Malbec, Layer Cake", "$13 / $42", "Mendoza, Argentina"],
+        ["Cabernet, Jacob's Creek", "$13 / $42", "Australia"],
+        ["Pinot Noir, Tribute", "$13 / $42", "California"],
+        ["Merlot, Robert Mondavi Select Rum Barrel Aged", "$13 / $39", "California"],
+        ["Cabernet, Josh Cellars", "$14 / $48", "California"],
+        ["Merlot, J. Lohr", "$13 / $21 half bottle", "California"],
+        ["Pinot Noir, Benziger", "$44", "Monterey, California"],
+        ["Merlot, Columbia Crest H3", "$38", "Washington"],
+        ["Cabernet, Joseph Carr", "$48", "Paso Robles"]
+      ]},
+      { "section": "Sparkling", "items": [
+        ["Martini & Rossi", "$29", "Italy"],
+        ["Mionetto Prosecco Brut", "$12 split / $29", "Italy"]
+      ]},
+      { "section": "After Dinner Sips", "items": [
+        ["Tuaca", "", ""], ["Kahlúa", "", ""], ["Baileys", "", ""], ["Drambuie", "", ""],
+        ["Disaronno Amaretto", "", ""], ["Courvoisier", "", ""], ["Grand Marnier", "", ""]
+      ]}
+    ]
+  }
+}
