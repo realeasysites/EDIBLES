@@ -11,7 +11,13 @@ app.use(express.urlencoded({ extended: false }));
 app.use('/admin', require('./routes/admin'));
 app.use('/api/inquiry', require('./routes/inquiry'));
 app.use(require('./routes/public'));
-app.use(express.static(path.join(__dirname, 'public'), { maxAge: '7d', index: false }));
+app.use(express.static(path.join(__dirname, 'public'), {
+  index: false,
+  setHeaders(res, file) {
+    // Fonts never change. Everything else is rechecked so updates show up right away.
+    res.setHeader('Cache-Control', file.endsWith('.woff2') ? 'public, max-age=31536000, immutable' : 'no-cache');
+  },
+}));
 app.use(require('./routes/public').notFound);
 
 const port = process.env.PORT || 3000;
