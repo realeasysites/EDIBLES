@@ -24,7 +24,6 @@
     "kitchenLastCall": "21:00"
   },
   "features": [
-    { "title": "Lobster French", "descr": "A Friday night feature.", "image": "french.jpg", "link": "https://www.instagram.com/p/Dcj7ryKpPYw/" },
     { "title": "Potatoes Raclette", "descr": "Duck fat roasted potatoes, caramelized onions, crispy bacon.", "image": "raclette.jpg", "link": "https://www.instagram.com/p/DfF0ZiGP-KZ/" },
     { "title": "Panna Cotta", "descr": "Strawberries, pistachio and honey.", "image": "pannacotta.jpg", "link": "https://www.instagram.com/p/DfIdRJ1vsMc/" }
   ],
